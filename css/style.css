@@ -9,10 +9,12 @@
 }
 
 .fa-microphone{
-	top: 60%;
+
 	right: 10%;
 	position: absolute;
-	right: 30%;
+
+	top: 36%;
+	right: 34%;
 }
 
 
@@ -40,9 +42,10 @@
 
 	
 }
-.fa-microphone{
-	top: 36%;
-	right: 34%;
-	
 
+
+
+
+.bottom-button{
+	
 }
