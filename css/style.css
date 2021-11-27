@@ -1,0 +1,42 @@
+
+
+
+.google-logo{
+	width:10px; 
+	position: absolute;
+	top: 25%;
+	left: 47%;
+}
+
+.fa-microphone{
+	top: 60%;
+	right: 10%;
+	position: absolute;
+	right: 30%;
+}
+
+
+ 
+  .bar:hover{
+	box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+  .bar:focus-within{
+	box-shadow: 1px 1px 8px 1px #dcdcdc;
+	outline:none;
+  }
+.searchbar{
+	
+
+	margin:0 auto;
+	
+	border-radius:30px;
+	border:1px solid #dcdcdc;
+	position: absolute;
+	top: 35%;
+	right: 33%;
+	width: 25%;
+	height: 4%;
+	
+
+	
+}
