@@ -4,8 +4,8 @@
 .google-logo{
 	width:10px; 
 	position: absolute;
-	top: 25%;
-	left: 47%;
+	top: 27%;
+	left: 43%;
 }
 
 .fa-microphone{
@@ -13,8 +13,8 @@
 	right: 10%;
 	position: absolute;
 
-	top: 36%;
-	right: 34%;
+	top: 38%;
+	right: 38%;
 }
 
 
@@ -34,18 +34,78 @@
 	border-radius:30px;
 	border:1px solid #dcdcdc;
 	position: absolute;
-	top: 35%;
-	right: 33%;
+	top: 37%;
+	right: 37%;
 	width: 25%;
 	height: 4%;
 	
 
 	
 }
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+.buttons{
+	margin-top:50px;
+  }
 
 
+.buttons{
+	
+	border:none;
+	
+	font-size:15px;
+	padding: 10px 20px;
+	margin-left:43%;
+	margin-top: 17%;
+	
 
+}
 
-.bottom-button{
+ul {
+	list-style-type: none;
+	overflow: hidden;
+  }
+  
+  li {
+	float: right;
+  }
+  
+  li a {
+	color: #000;
+	display: block;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size:14px;
+  }
+  li a:hover {
+	text-decoration: underline;
+  }
+
+.signbutton{
+	background-color: #1a73e8;
+	color: #fff;
+	border:none;
+	border-radius:3px;
+	padding:7px 10px;
+	position:relative;
+	bottom:7px;
+	font-weight:bold;
+  }
+
+.left{
+	color: #000;
+	float: left;
+	font-size:14px;
+		text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size:14px;
 	
 }
+
+
+	
